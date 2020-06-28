@@ -1,0 +1,73 @@
+body
+{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+    font-family: 'Roboto', sans-serif;
+}
+h2
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+p
+{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:1.2rem;
+    font-weight: bold;
+    line-height: 1;
+}
+.navigation
+{
+    background: linear-gradient( to right,#f64f59,#f7797d);
+    text-align: left;
+    color: white;
+}
+.navbar
+{
+    padding: 2% 6%;
+}
+.nav-item
+{
+    margin:0 18px;
+}
+
+.title-button
+{
+    border-radius: 4rem;
+    padding: 2% 10%;
+    margin:1rem 2rem 2rem 1rem;
+}
+#first-section .container-fluid
+{
+    padding:7% 13%;
+  
+}
+.title-image
+{
+    width:70%;
+   
+   
+}
+#section2 .container-fluid
+{
+    padding:7% 13%;
+    background-color: white;
+}
+.section-col
+{
+    padding: 2%;
+   
+}
+.icon 
+{
+    color:pink;
+}
+
+.heading
+{
+    margin-bottom: 4rem;
+}
